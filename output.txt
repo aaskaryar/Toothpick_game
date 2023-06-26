@@ -1,0 +1,18 @@
+WELCOME TO THE GAME!
+*************
+| | | | | | | | | | | | | 
+There are 13 toothpicks left
+| | | | | | | | | | 
+There are 10 toothpicks left
+| | | | | | | | | 
+There are 9 toothpicks left
+| | | | | | 
+There are 6 toothpicks left
+| | | | 
+There are 4 toothpicks left
+| | 
+There are 2 toothpicks left
+| 
+There are 1 toothpicks left
+Aria Wins the game!
+GAME OVER!!
